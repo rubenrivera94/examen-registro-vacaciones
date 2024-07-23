@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">examen</string>
+    <string name="title_agregar_lugar">Agregar Lugar</string>
+    <string name="title_editar_lugar">Editar Lugar</string>
+    <string name="title_detalle_lugar">Detalles del Lugar</string>
+    <string name="button_volver">Volver</string>
+</resources>
